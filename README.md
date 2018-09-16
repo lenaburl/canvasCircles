@@ -1,7 +1,7 @@
 # canvasCircles
  My first experience with canvas.
  
- Background with random colour circles witch react to the cursor.
+ Background with random colour and radius circles witch react to the cursor.
  
  Code is in gh-pages branch.
  
